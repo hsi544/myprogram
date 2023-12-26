@@ -1,6 +1,10 @@
 # this is another module
 def foo():
-    print('this is foo function')
+    ret = 'this is foo function'
+    print(ret)
+    return ret
 
 def bar():
-    print('this is bar function')
+    ret = 'this is bar function'
+    print(ret)
+    return ret
